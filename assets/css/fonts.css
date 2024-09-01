@@ -28,14 +28,14 @@
 
 @font-face {
     font-family: 'Monaspace';
-    src: url('/fonts/Monaspace/MonaspaceArgon-Regular.woff') format('woff');
+    src: url('/fonts/Monaspace/MonaspaceNeon-Regular.woff2') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Monaspace';
-    src: url('/fonts/Monaspace/MonaspaceArgon-SemiBold.woff') format('woff');
+    src: url('/fonts/Monaspace/MonaspaceNeon-SemiBold.woff2') format('woff');
     font-weight: bold;
     font-style: normal;
 }
